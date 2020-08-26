@@ -6,4 +6,8 @@ public class Customer {
         this.name = name;
         this.user_id = user_id;
     }
+    @Override
+    public String toString(){
+        return user_id;
+    }
 }
