@@ -74,7 +74,7 @@ public final class Main {
         double distance =  Radius * c  ;
         return distance;
     }
-    // PRIVATE
+    // private objects
     private final Path filePath;
     private final static Charset ENCODING = StandardCharsets.UTF_8;
 
